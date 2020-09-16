@@ -1,0 +1,210 @@
+Golden State Warriors
+113.5
+107.5
+43.5
+0.503
+8.0
+True
+Houston Rockets
+112.4
+103.9
+43.5
+0.460
+8.5
+True
+Toronto Raptors
+111.7
+103.9
+44.0
+0.472
+7.6
+True
+New Orleans Pelicans
+111.7
+103.9
+44.4
+0.483
+8.0
+False
+Cleveland Cavaliers
+110.9
+109.9
+42.1
+0.476
+7.1
+True
+Denver Nuggets
+110.0
+108.5
+44.5
+0.470
+7.7
+False
+Philadelphia 76ers
+109.8
+105.3
+47.4
+0.472
+8.3
+True
+Minnesota Timberwolves
+109.5
+107.3
+42.0
+0.476
+8.4
+True
+Los Angeles Clippers
+109.0
+109.0
+43.9
+0.471
+7.7
+False
+Charlotte Hornets
+108.2
+108.0
+45.5
+0.450
+6.8
+False
+Los Angeles Lakers
+108.1
+109.6
+46.4
+0.461
+7.7
+False
+Oklahoma City Thunder
+107.9
+104.4
+45.1
+0.453
+9.1
+True
+Brooklyn Nets
+106.6
+110.3
+44.4
+0.441
+6.2
+False
+Washington Wizards
+106.6
+106.0
+43.1
+0.467
+7.9
+True
+Milwaukee Bucks
+106.5
+106.8
+39.8
+0.478
+8.8
+True
+Indiana Pacers
+105.6
+104.2
+42.4
+0.472
+8.8
+True
+Portland Trail Blazers
+105.6
+103.0
+45.5
+0.452
+7.0
+False
+New York Knicks
+104.5
+108.0
+44.0
+0.464
+6.7
+False
+Utah Jazz
+104.1
+99.8
+43.3
+0.462
+8.6
+True
+Boston Celtics
+104.0
+100.4
+44.5
+0.450
+7.4
+True
+Phoenix Suns
+103.9
+113.3
+44.1
+0.442
+7.0
+False
+Detroit Pistons
+103.8
+103.9
+43.7
+0.450
+7.7
+False
+Miami Heat
+103.4
+102.9
+43.5
+0.455
+7.6
+True
+Orlando Magic
+103.4
+108.2
+41.6
+0.452
+7.6
+False
+Atlanta Hawks
+103.4
+108.8
+41.9
+0.446
+7.8
+False
+Chicago Bulls
+102.9
+110.0
+44.7
+0.435
+7.6
+False
+San Antonio Spurs
+102.7
+99.8
+44.2
+0.457
+7.7
+False
+Dallas Mavericks
+102.3
+105.4
+41.3
+0.444
+7.1
+False
+Memphis Grizzlies
+99.3
+105.5
+40.5
+0.444
+7.5
+False
+Sacramento Kings
+98.8
+105.8
+40.9
+0.450
+7.8
+False
